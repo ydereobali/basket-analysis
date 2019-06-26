@@ -1,7 +1,7 @@
 ########################################################################
 # Title: Basket Associations
 # Author: Yigit Dereobali
-# Title: Ubiqum Module 2 Task 4
+# Name: Ubiqum Module 2 Task 4
 # Description: Find associations among products in the given baskets
 # Date: 22.05.2019
 # Version: 1.1
